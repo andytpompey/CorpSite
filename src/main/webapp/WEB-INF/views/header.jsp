@@ -44,6 +44,10 @@
                                 <li>
                                     <a href="/sackings">Recent Sackings</a>
                                 </li>
+                                <li>
+                                    <a href="/news">Find Out Stuff</a>
+                                </li>
+                                    
                                 
                                 <li>
                                     <a href="#">
