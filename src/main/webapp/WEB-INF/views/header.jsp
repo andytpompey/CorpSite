@@ -42,6 +42,10 @@
                                     <a href="/careers">Careers</a>
                                 </li>
                                 <li>
+                                    <a href="/sackings">Recent Sackings</a>
+                                </li>
+                                
+                                <li>
                                     <a href="#">
                                         Locations
                                     </a>
